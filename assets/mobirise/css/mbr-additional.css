@@ -1339,7 +1339,8 @@ body {
 .cid-qv2ZOnPr1D {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/back-background-with-silhouette-preview-1050x600.jpg");
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #000000);
 }
 @media (min-width: 992px) {
   .cid-qv2ZOnPr1D .mbr-figure {
